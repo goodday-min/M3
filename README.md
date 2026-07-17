@@ -16,3 +16,16 @@ action1 - 구글시트 (오후 시트에 추가됨)
 actoin2 - 구글메일 (메일 발송됨)
 <img width="1366" height="108" alt="image" src="https://github.com/user-attachments/assets/0aeff70f-e01a-4b70-8751-ccacdb2a0842" />
 
+
+
+Zapier
+워크플로우
+
+
+트리거 - 구글폼 (신청서 작성됨)
+
+action1 - 구글시트 (오전 시트에 추가됨)
+
+action1 - 구글시트 (오후 시트에 추가됨)
+
+actoin2 - 구글메일 (메일 발송됨)
