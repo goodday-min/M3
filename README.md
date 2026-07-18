@@ -1,6 +1,10 @@
-# MAKE 
---------------------------------
-## Workflow
+# [프로젝트 1] 자동화 도구 비교 구현
+
+-------
+
+## [ MAKE ] 
+
+### Workflow
 <img width="1091" height="559" alt="image" src="https://github.com/user-attachments/assets/71c5c1fa-58ac-4eb6-9c40-1d2f90f2de8e" />
 
 ### Triger : GoogleForm    <br>
@@ -29,7 +33,7 @@
 
 
 --------------------------------
-# Zapier
+## [ ZAPIER ] 
 --------------------------------
 ### Workflow
 <img width="773" height="640" alt="image" src="https://github.com/user-attachments/assets/91be7dad-e76a-49ba-9fac-3a59fcb9aa8c" />
